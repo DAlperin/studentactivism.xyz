@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Activists!</title>
+    <link>http://studentactivism.xyz/</link>
+    <description>Recent content on Student Activists!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Mar 2018 22:07:29 -0400</lastBuildDate>
+    
+	<atom:link href="http://studentactivism.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>http://studentactivism.xyz/posts/hello/</link>
+      <pubDate>Tue, 13 Mar 2018 22:07:29 -0400</pubDate>
+      
+      <guid>http://studentactivism.xyz/posts/hello/</guid>
+      <description>Thank you for joining us today on our walkout, check back here for relevant updates pertaining to future actions and walkouts!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://studentactivism.xyz/about/</link>
+      <pubDate>Tue, 13 Mar 2018 21:58:01 -0400</pubDate>
+      
+      <guid>http://studentactivism.xyz/about/</guid>
+      <description>What is this page what are you doing? Good question. We are advocating for actual gun control laws in America that keep everyone safe. Regardless of who they are, where they live, who they love, or the color of their skin. Here are our specific asks.
+ Ban AR-15&amp;rsquo;s and similar rifles Minimum age to buy a gun raised to 21 everywhere Mandatory background checks Mandatory 2 day waiting periods End stand your ground laws End concealed carry reciprocity  These asks are not unreasonable ones.</description>
+    </item>
+    
+    <item>
+      <title>Get involved</title>
+      <link>http://studentactivism.xyz/getinvolved/</link>
+      <pubDate>Tue, 13 Mar 2018 21:50:27 -0400</pubDate>
+      
+      <guid>http://studentactivism.xyz/getinvolved/</guid>
+      <description>How to get involved Contact your senators Senator Chuck Schumer  Numbers  NYC office: (212) 486-4430 D.C. office: (202) 224-6542  Other  Twitter   Senator Kirsten Gillibrand  Numbers  NYCoffice: (212) 688-6262 D.C. office: (202) 224-4451  Other  Twitter   Find your representatives&amp;hellip; then call them too https://www.house.gov/representatives/find-your-representative
+Contact NYC Governor Andre Cuomo  Call  (518) 474 8390  Other  Twitter   Contact NYC Mayor Bill DeBlasio  Call  Contact through 311  Other  Twitter   Youth Organizing to Save Our Streets  @SOS_Brooklyn @youthorganizing  Moms Demand Action  @momsdemand  March for Our Lives  https://marchforourlives.</description>
+    </item>
+    
+  </channel>
+</rss>

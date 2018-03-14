@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://studentactivism.xyz/posts/</loc>
+    <lastmod>2018-03-13T22:10:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://studentactivism.xyz/posts/hello/</loc>
+    <lastmod>2018-03-13T22:07:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://studentactivism.xyz/about/</loc>
+    <lastmod>2018-03-13T21:58:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://studentactivism.xyz/getinvolved/</loc>
+    <lastmod>2018-03-13T21:50:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://studentactivism.xyz/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://studentactivism.xyz/</loc>
+    <lastmod>2018-03-13T22:07:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://studentactivism.xyz/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
