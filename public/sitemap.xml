@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://studentactivism.xyz/who/</loc>
+    <lastmod>2018-03-14T09:09:27-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://studentactivism.xyz/posts/</loc>
     <lastmod>2018-03-13T22:10:09-04:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>http://studentactivism.xyz/</loc>
-    <lastmod>2018-03-13T22:07:29-04:00</lastmod>
+    <lastmod>2018-03-14T09:09:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
